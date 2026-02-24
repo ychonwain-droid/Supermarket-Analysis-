@@ -1,2 +1,0 @@
-# Supermarket-Analysis-
-Data Cleaning 
